@@ -1,0 +1,14 @@
+{
+  "name": "Gamester Channel App",
+  "short_name": "Gamester",
+  "description": "A gaming-focused companion app for the Gamester YouTube channel.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080a09",
+  "theme_color": "#0a0c0b",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
